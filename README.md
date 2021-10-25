@@ -1,4 +1,4 @@
-# Capstone-Project-IV---Lists-Functions-and-String-Handling
+# Single_Nucleotide_Polymorphism_Project
 
 Compulsory Task 1 (SickleCellDisease.py):
 
